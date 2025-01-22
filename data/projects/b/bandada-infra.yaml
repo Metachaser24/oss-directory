@@ -9,3 +9,6 @@ social:
     - url: https://twitter.com/BandadaDevs/
 github:
   - url: https://github.com/bandada-infra
+npm:
+- url: https://www.npmjs.com/package/@bandada/api-sdk
+- url: https://www.npmjs.com/package/@bandada/utils
